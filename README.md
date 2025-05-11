@@ -32,3 +32,6 @@ I was willing to check for difference between dot movement in real live. So I ma
 
 Of course this is just a words that need to be proven. So now it's time for the formulas. And testing. But this part is under maintance.
 
+-------
+Also if you have any questions or ideas you can write through telegram: @vudyyyyyyyy
+
