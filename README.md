@@ -21,6 +21,7 @@ Let's try to take a turn with this operators. Firstly we need to move point stra
 
 ![Visualized dot moving](images/01.gif)
 ![Infinite small turn of a circle](images/02.gif)
+![Zooming out from the curved line](images/03.gif)
 
 Pi is irrational, (e) is irrational. I think all constants are irrational what shows connection between them. We know that any figure can bi fitted in to the circle so circle is the maximum turn and everything else its configurations. Than if we will plot e^x graph and put line between -e to e and then move point by the graph curve maybe there we also lose some of the length and we need two this lines and 0.7182.. This paragraph should be checked and tested.
 
