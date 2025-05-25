@@ -43,7 +43,7 @@ If the world is discrete (atoms, Planck length), why does mathematics allow us t
 
 ## Experiment with the laser
 
-Nothing much here. Just tooked a laser machine from my university to make an Jung's experience at home and want you to show how laser is formed inside from the bunch of white color. I think I will return to this experiment but for now this is just visually mesmerizing.
+Nothing much here. Just took a laser machine from my university to make an Jung's experience at home and want you to show how laser is formed inside from the bunch of white color. I think I will return to this experiment but for now this is just visually mesmerizing.
 
 https://vimeo.com/1087583065/a94c9c34af?ts=0&share=copy
 
