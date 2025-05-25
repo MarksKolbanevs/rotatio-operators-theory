@@ -5,6 +5,7 @@ Hi reader! Thanks for stopping by. I hope you’re reading this in good spirits 
 
 Everything I will write here are just my thoughts at this moments that will need to be proofed or discharged. The theory is based on things that everyone see and maybe feel but couldn't explain why or how. Here I will explain my thought about mathematical constants like "π" or "e" and why everywhere we see recurring patterns like circles, squares etc. Why everything in space is going round and works like it works. Why corners may not look at what they are first. Why circle is a fractal and just why everything is like it is.
 
+# MAIN IDEA
 I want to start with the things that started this chain. One day I was sitting and analyzing how Areas of basic shapes are calculated based on 1x1 squares. Everything made sense until I tried to understand how circle Areas is calculated and there this strange number appeared. I heard about "π" that it is irrational, infinite number without repetition sequence. I didn't keeped it in mind until this point. I started to search what it is and how it appear. Found that this is a number of how many diameters we need to close a circle by it's perimeter. So logically speaking we need 3 diameters and 0.14156.. of diameter. And I thought myself "Where this small piece of diameter go?" and after some time I tried to look at the circle in other perspective.
 
 It says that circle is an infinite set of points equidistant from a center. For me it doesn't give anything. So I thought what if we will look at the circle as at one point that is rotating and coming back. Ok that sound more resonable for me. So point is moving by some infinite small steps. Morevore we can describe any figure of this infinite small steps but different. Ok then if we will look at the straight line we can say it just moving forward and doing nothing. We will come back to it later. But now let's imagine that we need to move dot from one point to another not by straight line, but by the arc. Now it where things starts to get weird. If we have finite size, lets say steps and we will move dot not by line but convert this steps to arc steps we won't get to the second point and we will see, that we still need some distance to complete. Ok lets check how much we have lost during arc movement. Approximately we will lose 30%. So you may say that we just need to take more steps, for example 30% to complete. No. Totally no. Moving point by more 30% of our diameter we still will have some distance to finish, ok, we will say that we need more than and adding more, but it may go up to infinite and still not reaching the second point! So this is the first level of the iceberg.
@@ -29,7 +30,8 @@ From the collected data, we know that the universe appears to be flat. What is f
 
 Looking from this perspective we can say that black hole singularity is a place where \0/ is 1 and -\0/ is 0 because everything is concentrated in one point and it have a biggest koefficient difference and there is no other things with different configuration the point nearby the singularity will move in a circle without way to move out because only in black hole configuration \0/ and -\0/ = 1 are so concentrated in on place. So light, particle everything that goes in to it starts to rotate because even time move in circle there.
 
-UPDATE: Experiment with the circle
+# EXPERIMENTS
+## Experiment with the circle
 
 I was willing to check for difference between dot movement in real live. So I made an experiment. I drawed a big circle on A3 paper and lined a diameter. Than I tooked tin rod and cutted to the diameter length. This tin rod now represent a diameter. Now, we took this rod from one point of a diameter on the circle and starting to curve it to the arc. And what we see? We have stopped on the somewhere on the halfway and didn't reach the second point of a diameter on the another end. Ok now lets put a dot on the diameter itself like a projection of the curve on the diameter. Now we see, that we still need some length to complete. Now lets take the rod and make it a length of the remainder length. Now again take the rod at the end of the previous curve and make iteration again and we will see again that we still need some length to complete. This can be over and over again and we still wont be able to reach second point. Through this experiment we can say that the projection of the curve on the diameter makes the point to not end the path by 37% approximately. And next iterations do it again and again. This sounds like a version of "Achilles and the Tortoise paradox". But in real life. So how we ending up to a second point if we will have a some small path to complete? Here I have two main points that don't interfere with each other:
 
@@ -39,8 +41,14 @@ I was willing to check for difference between dot movement in real live. So I ma
 
 If the world is discrete (atoms, Planck length), why does mathematics allow us to infinitely divide reality? Maybe it is not so discrete.
 
-Of course this is just a words that need to be proven. So now it's time for the formulas. And testing. But this part is under maintance.
+## Experiment with the laser
+
+Nothing much here. Just tooked a laser machine from my university to make an Jung's experience at home and want you to show how laser is formed inside from the bunch of white color. I think I will return to this experiment but for now this is just visually mesmerizing.
+
+https://vimeo.com/1087583065/a94c9c34af?ts=0&share=copy
 
 -------
+Of course this is just a words that need to be proven. So now it's time for the formulas. And testing. But this part is under maintance.
+
 Also if you have any questions or ideas you can write through telegram: @vudyyyyyyyy
 
