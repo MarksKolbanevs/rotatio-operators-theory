@@ -40,7 +40,7 @@ I was willing to check for difference between dot movement in real live. So I ma
 2.) Yes we are making the half of the circle to the second point and it gives us a thought that we need some acceleration to complete. Maybe that's why universe is scaling because for every movement it is needed additional acceleration(space) to complete arc path? 
 
 If the world is discrete (atoms, Planck length), why does mathematics allow us to infinitely divide reality? Maybe it is not so discrete.
-
+![Experiment with the circle](images/04.gif)
 ## Experiment with the laser
 
 Nothing much here. Just took a laser machine from my university to make an Jung's experience at home and want you to show how laser is formed inside from the bunch of white color. I think I will return to this experiment but for now this is just visually mesmerizing.
