@@ -1,6 +1,10 @@
 # rotatio-operators-theory
 A theory describing recurring patterns at different scales through rotation operators
+### Important links
+Work about circle, you can download file through files. It is about founded series that interlink pi, natural numbers, Mersenne numbers in one place. Maybe here I will describe it in my brief form: https://osf.io/4sakd/?view_only=05ca836c24e1459799ebdd41f80d8d05
 
+
+## Abstract
 Hi reader! Thanks for stopping by. I hope you’re reading this in good spirits (and maybe with a cup of coffee ☕). P.S Sorry for the mistakes because this is just a draft writing
 
 Everything I will write here are just my thoughts at this moments that will need to be proofed or discharged. The theory is based on things that everyone see and maybe feel but couldn't explain why or how. Here I will explain my thought about mathematical constants like "π" or "e" and why everywhere we see recurring patterns like circles, squares etc. Why everything in space is going round and works like it works. Why corners may not look at what they are first. Why circle is a fractal and just why everything is like it is.
