@@ -5,7 +5,7 @@ If you are here by hashtags like: primary-numbers, natural-numbers, mersenne-num
 
 
 ## Abstract
-Hi reader! Thanks for stopping by. I hope you’re reading this in good spirits (and maybe with a cup of coffee ☕). P.S Sorry for the mistakes because this is just a draft writing
+Hi reader! Thanks for stopping by. I hope you’re reading this in good spirits (and maybe with a cup of coffee ☕). Sorry for the mistakes because this is just a draft writing and here I want to fill free to expound my ideas. For more formal text check the link above. Another formal texts will be available through links on the top in the future.
 
 Everything I will write here are just my thoughts at this moments that will need to be proofed or discharged. The theory is based on things that everyone see and maybe feel but couldn't explain why or how. Here I will explain my thought about mathematical constants like "π" or "e" and why everywhere we see recurring patterns like circles, squares etc. Why everything in space is going round and works like it works. Why corners may not look at what they are first. Why circle is a fractal and just why everything is like it is.
 
