@@ -1,7 +1,7 @@
 # rotatio-operators-theory
 A theory describing recurring patterns at different scales through rotation operators
 ### Important links
-Work about circle, you can download file through files. It is about founded series that interlink pi, natural numbers, Mersenne numbers in one place. Maybe here I will describe it in my brief form: https://osf.io/4sakd/?view_only=05ca836c24e1459799ebdd41f80d8d05
+Work about circle, you can download file through files. It is about founded series that interlink pi, natural numbers, Mersenne numbers in one place: https://osf.io/4sakd/?view_only=05ca836c24e1459799ebdd41f80d8d05
 
 
 ## Abstract
