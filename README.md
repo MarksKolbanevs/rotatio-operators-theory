@@ -51,6 +51,12 @@ Nothing much here. Just took a laser machine from my university to make an Jung'
 
 https://vimeo.com/1087583065/a94c9c34af?ts=0&share=copy
 
+## Experiment with possible dot trajectories
+I was playing around with the diameter and how dot can travell from one end to the another of diameter - by circle or by anothers arcs. However I was wondering to draw it and I got something looking like presentation of magnetic fields. It looks inside the circle as some different arcs from diameter(line) to the circle's arcs and big looking like a moon curves. But I was interested to see the full picture not only for one diameter, so I duplicated this picture over 360 degrees and got interesting image. Its look like circle inside the circle inside the circle e.t.c. And it looked like 3d so I thought, if it looks like 3d in 2d, what it will look in 3d? I opened spline and painted this exact image over x and z axes and got the same image! It is not looking like a slice. It looks totally the same. Will this figure shows itself the same in 4d?
+Here is the link to the spline where you can see it in 3d: https://app.spline.design/file/4467ff37-08a9-4aff-aa2c-f14ab1de5a14
+
+![Trajectories for one diameter](images/magnetic_fields_like_trajectories.png)
+![Trajectories for multiple diameters](images/multiple_trajectories.png)
 -------
 Of course this is just a words that need to be proven. So now it's time for the formulas. And testing. But this part is under maintance.
 
