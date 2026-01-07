@@ -3,7 +3,7 @@ A theory describing recurring patterns at different scales through rotation oper
 ### Important links, 
 If you are here by hashtags like: primary-numbers, natural-numbers, mersenne-numbers, circle-geometry; please visit a OSF work about circle, you can download file through files. It is about founded series that interlink pi, natural numbers, Mersenne numbers in one place: https://osf.io/4sakd/?view_only=05ca836c24e1459799ebdd41f80d8d05
 
-I'll record this here, just in case. I found a geometric interpretation of the zeta function through a unit circle with frightening accuracy. It's a draft, but I'm attaching it here to duplicate the recording of the idea: https://osf.io/texzn/files/826nu
+I'll record this here, just in case. I found a geometric interpretation of the zeta function through a unit circle with frightening accuracy. It's a draft, but I'm attaching it here to duplicate the recording of the idea: https://osf.io/texzn/files/826nu. Later, I will add a section on the chronology of thoughts and ideas that led to this.
 
 
 ## Abstract
